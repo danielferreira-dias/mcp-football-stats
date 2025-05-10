@@ -2,7 +2,7 @@
 
 # Football Stats MCP
 
-A Model Context Protocol (MCP) implementation for fetching and analyzing football statistics using the FotMob API.
+A Model Context Protocol (MCP) implementation for fetching and analyzing football statistics.
 
 Note: This particular MCP is not a final product and will be updated as time goes by.
 
