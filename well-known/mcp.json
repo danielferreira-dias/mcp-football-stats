@@ -1,0 +1,7 @@
+{
+    "id": "mcp-football-stats",
+    "name": "Football Stats MCP",
+    "description": "MCP for fetch stats from FutMob",
+    "version": "0.1.0",
+    "tools": ["get_team_profile", "get_team_news", "get_match_details"]
+}
